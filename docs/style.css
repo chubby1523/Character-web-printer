@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Kaiti';
+    src: URL('simkai.ttf') format('truetype');
+  }
+
+textarea{
+    padding: none;
+    border: none;
+
+    border: none;
+    font-size: 50vw;
+    font-family: Kaiti;
+    vertical-align: top
+    display: flex;
+    align-items: baseline;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    vertical-align: top;
+}
