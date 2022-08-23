@@ -8,9 +8,9 @@ textarea{
     border: none;
 
     border: none;
-    font-size: 50vw;
+    font-size: 45vw;
     font-family: Kaiti;
-    vertical-align: top
+    vertical-align: top;
     display: flex;
     align-items: baseline;
 }
